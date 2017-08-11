@@ -22,8 +22,6 @@ app.get('article-three',function(req,res){
     res.send('article three is requested here');
 });
 
-}
-}
 
 
 app.get('/ui/madi.png', function (req, res) {
